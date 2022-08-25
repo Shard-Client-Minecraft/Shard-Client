@@ -10,12 +10,6 @@
 
 Simple and easy to use Minecraft client for 1.8.9 (and in future™, newer versions).
 
-Update: Yes, I know, it has been seven months since I wrote about the newer versions thing.
-
-## Pojav
-People have alreading been talking about this client working on Pojav, but it's not quite ready.
-However, it does mostly work, and you can download a preview from [here](https://github.com/Sol-Client/Installer/releases).
-
 ## Licence
 This project uses [GNU General Public License v3.0](LICENSE), meaning that if you fork this project, it must be either completely private, or the code *must* be available to your users.
 
@@ -29,12 +23,8 @@ This does not apply to third-party builds.
 
 There are some parts of the code that use other licences (such as code "borrowed" from other projects). If this is the case, it will be noted in a comment, or another licence file in the same directory.
 
-Note that this project is not 100% open source, because both Minecraft and OptiFine are closed source. There are 100% open source clients, but they do not inherit any of the game's code, meaning they are not as complete, and will likely get you banned on servers.
-
 I would also appreciate it if people didn't sell this client.
 
-## Why?
-There are many Minecraft clients, but they are usually closed source, and may contain malicious code. This client is free and open source, meaning that the code is visible, and anyone can propose changes and report issues with ease.
 
 Many clients lack important features, including ReplayMod.
 
