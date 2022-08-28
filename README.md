@@ -1,4 +1,4 @@
-# Sol Client
+# Shard Client
 
 
 
@@ -9,7 +9,7 @@ This project uses [GNU General Public License v3.0](LICENSE), meaning that if yo
 
 There are some parts of the code that use other licences (such as code "borrowed" from other projects). If this is the case, it will be noted in a comment, or another licence file in the same directory.
 
-I would also appreciate it if people didn't sell this client.
+I would also appreciate it if people didn't sell this client when it releases.
 
 
 Many clients lack important features, including ReplayMod.
